@@ -1,4 +1,4 @@
-package cs3500.hw02;
+package cs3500.fcmodel;
 
 import java.util.Objects;
 

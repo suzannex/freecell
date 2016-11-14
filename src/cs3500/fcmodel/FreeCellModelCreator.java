@@ -1,10 +1,6 @@
-package cs3500.hw04;
+package cs3500.fcmodel;
 
 import java.util.Objects;
-
-import cs3500.hw02.FreeCellModel;
-import cs3500.hw02.IFreeCellModel;
-import cs3500.hw02.Card;
 
 /**
  * A factory class for FreeCellModel and FreeCellModelMulti - for FreeCell models

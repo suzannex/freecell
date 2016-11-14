@@ -1,12 +1,12 @@
-package cs3500.hw03;
+package cs3500.fccontroller;
 
 import java.io.IOException;
 import java.util.List;
 import java.util.Objects;
 import java.util.Scanner;
 
-import cs3500.hw02.IFreeCellModel;
-import cs3500.hw02.PileType;
+import cs3500.fcmodel.IFreeCellModel;
+import cs3500.fcmodel.PileType;
 
 //class Game {
 //

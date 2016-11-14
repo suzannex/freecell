@@ -1,4 +1,4 @@
-package cs3500.hw02;
+package cs3500.fcmodel;
 
 /**
  * This is the interface for classes representing piles of cards in the game FreeCell.

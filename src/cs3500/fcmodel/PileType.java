@@ -1,4 +1,4 @@
-package cs3500.hw02;
+package cs3500.fcmodel;
 
 /**
  * Enumeration for the three types of <i>piles</i> in a game of solitaire.

@@ -1,4 +1,4 @@
-package cs3500.hw02;
+package cs3500.fcmodel;
 
 /**
  * Created by SLB on 9/22/16.

@@ -1,4 +1,4 @@
-package cs3500.hw04test;
+package cs3500.fcmodel;
 
 import org.junit.Before;
 import org.junit.Test;
@@ -7,11 +7,11 @@ import java.util.ArrayList;
 
 import static org.junit.Assert.assertEquals;
 
-import cs3500.hw02.PileType;
-import cs3500.hw02.Suit;
-import cs3500.hw04.FreeCellModelMulti;
-import cs3500.hw02.Card;
-import cs3500.hw02.IFreeCellModel;
+import cs3500.fcmodel.PileType;
+import cs3500.fcmodel.Suit;
+import cs3500.fcmodel.FreeCellModelMulti;
+import cs3500.fcmodel.Card;
+import cs3500.fcmodel.IFreeCellModel;
 
 /**
  * Contains tests for IFreeCellModel methods implemented by the FreeCellModelMulti class.

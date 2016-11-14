@@ -1,4 +1,4 @@
-package cs3500.hw02test;
+package cs3500.fcmodel;
 
 import org.junit.Before;
 import org.junit.Test;
@@ -11,14 +11,7 @@ import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.assertNotEquals;
 import static org.junit.Assert.assertTrue;
 import static org.junit.Assert.assertFalse;
-
-import cs3500.hw02.Card;
-import cs3500.hw02.FreeCellModel;
-import cs3500.hw02.IFreeCellModel;
-import cs3500.hw02.PileType;
-import cs3500.hw02.Suit;
-import cs3500.hw04.FreeCellModelMulti;
-//import cs3500.hw04.FreeCellModelCreator;
+//import cs3500.fcmodel.FreeCellModelCreator;
 
 /**
  * CHANGED FOR HW 04. Rewrote all the tests so that they only accessed public

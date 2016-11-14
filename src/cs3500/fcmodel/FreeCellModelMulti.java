@@ -1,12 +1,12 @@
-package cs3500.hw04;
+package cs3500.fcmodel;
 
 import java.util.ArrayList;
 import java.util.Objects;
 
-import cs3500.hw02.FreeCellModel;
-import cs3500.hw02.IPile;
-import cs3500.hw02.PileType;
-import cs3500.hw02.Card;
+import cs3500.fcmodel.FreeCellModel;
+import cs3500.fcmodel.IPile;
+import cs3500.fcmodel.PileType;
+import cs3500.fcmodel.Card;
 
 /**
  * The class that represents a FreeCell model, where the ability to move multiple cards

@@ -1,6 +1,6 @@
-package cs3500.hw03;
+package cs3500.fccontroller;
 
-import cs3500.hw02.IFreeCellModel;
+import cs3500.fcmodel.IFreeCellModel;
 
 import java.util.List;
 

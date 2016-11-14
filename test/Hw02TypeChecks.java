@@ -1,6 +1,8 @@
 import java.util.List;
 
-import cs3500.hw02.PileType;
+import cs3500.fcmodel.FreeCellModel;
+import cs3500.fcmodel.IFreeCellModel;
+import cs3500.fcmodel.PileType;
 
 /**
  * Do not modify this file. This file should compile correctly with your code!
@@ -8,10 +10,10 @@ import cs3500.hw02.PileType;
 public class Hw02TypeChecks {
 
   public static void main(String[] args) {
-    helper(new cs3500.hw02.FreeCellModel());
+    helper(new FreeCellModel());
   }
 
-  private static <T> void helper(cs3500.hw02.IFreeCellModel<T> model) {
+  private static <T> void helper(IFreeCellModel<T> model) {
     List<T> deck = model.getDeck();
     model.startGame(deck, 8, 4, false);
     model.move(PileType.CASCADE, 0, 4, PileType.CASCADE, 2);

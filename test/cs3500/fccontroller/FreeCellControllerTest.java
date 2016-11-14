@@ -1,17 +1,15 @@
-package cs3500.hw03test;
+package cs3500.fccontroller;
 
 import org.junit.Test;
 import org.junit.Before;
 
 import static org.junit.Assert.assertEquals;
 
-import cs3500.hw02.IFreeCellModel;
-import cs3500.hw02.FreeCellModel;
-import cs3500.hw02.Card;
+import cs3500.fcmodel.IFreeCellModel;
+import cs3500.fcmodel.FreeCellModel;
+import cs3500.fcmodel.Card;
 
-import cs3500.hw03.IFreeCellController;
-import cs3500.hw03.FreeCellController;
-import cs3500.hw04.FreeCellModelMulti;
+import cs3500.fcmodel.FreeCellModelMulti;
 
 import java.util.List;
 
